@@ -193,21 +193,6 @@ This project helps answer questions such as:
 9. How do operational conditions such as peak, weekend, festival and maintenance periods affect passenger activity?
 10. What is the overall revenue and profitability of the metro trips?
 
----
-
-## 📷 Dashboard Preview
-
-Add the Power BI dashboard screenshot to the `Dashboard` folder and name it:
-
-```text
-Delhi_Metro_Dashboard.png
-```
-
-Then use:
-
-```markdown
-![Delhi Metro Power BI Dashboard](Dashboard/Delhi_Metro_Dashboard.png)
-```
 
 ---
 
@@ -235,6 +220,7 @@ This project demonstrates practical skills in:
 ## 👤 Author
 
 **Sameer Raj**
+[LinkedIn](https://www.linkedin.com/in/sameerrajj/) | [GitHub](https://github.com/sameerrajj)
 
 **Project:** Delhi Metro Analysis
 
